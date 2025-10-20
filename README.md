@@ -33,10 +33,14 @@ This project demonstrates an understanding of:
 
 ## 🖼️ Preview
 
-![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (365).png")
-![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (366).png")
-![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (367).png")
-![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (368).png")
+![Screenshot of Website](<img width="1807" height="851" alt="Screenshot (365)" src="https://github.com/user-attachments/assets/9d0dbafe-5f1d-46ac-8588-f5a54a9bc004" />
+)
+![Screenshot of Website](<img width="1820" height="854" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/7899ce88-46cd-4ebd-8b32-421a31988a89" />
+)
+![Screenshot of Website](<img width="1800" height="840" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/6fd09cc3-015f-4ce3-9c5e-183f5b9c230e" />
+)
+![Screenshot of Website](<img width="1828" height="825" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/4a7cb6f0-705f-49ce-bf00-3887f19085f4" />
+)
 ---
 ---
 
