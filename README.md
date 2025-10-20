@@ -33,7 +33,7 @@ This project demonstrates an understanding of:
 
 ## 🖼️ Preview
 
-![Screenshot of Website](<img width="1807" height="851" alt="Screenshot (365)" src="https://github.com/user-attachments/assets/9d0dbafe-5f1d-46ac-8588-f5a54a9bc004" />
+(<img width="1807" height="851" alt="Screenshot (365)" src="https://github.com/user-attachments/assets/9d0dbafe-5f1d-46ac-8588-f5a54a9bc004" />
 )
 ![Screenshot of Website](<img width="1820" height="854" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/7899ce88-46cd-4ebd-8b32-421a31988a89" />
 )
