@@ -1,11 +1,11 @@
-# 🎡 Upcoming Events in Gauteng - Carnival City
+# Upcoming Events in Gauteng - Carnival City
 
 This is a simple, responsive **HTML and CSS** website showcasing upcoming events at **Carnival City**, Gauteng.  
 The project focuses on layout design, typography, and user-friendly presentation of event information.
 
 ---
 
-## 📸 Project Overview
+## Project Overview
 
 The website includes:
 - A fixed header with a banner image.  
@@ -22,7 +22,7 @@ This project demonstrates an understanding of:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -33,8 +33,11 @@ This project demonstrates an understanding of:
 
 ## 🖼️ Preview
 
-![Screenshot of Website](images/TopPic.png)
-
+![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (365).png")
+![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (366).png")
+![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (367).png")
+![Screenshot of Website]("C:\Users\Reabetswe Tsotetsi\Pictures\Screenshots\Screenshot (368).png")
+---
 ---
 
 ## 🚀 How to Run the Project
